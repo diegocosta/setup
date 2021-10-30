@@ -1,3 +1,3 @@
 # setup
 
-my personal config for macOS environment.
+my personal setup for the macOS environment.
