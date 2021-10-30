@@ -3,6 +3,7 @@ tap "homebrew/cask"
 tap "homebrew/cask-fonts"
 tap "homebrew/core"
 brew "libyaml"
+brew "mas"
 brew "nvm"
 brew "rbenv"
 brew "yarn"
@@ -28,3 +29,7 @@ cask "transmission"
 cask "visual-studio-code"
 cask "vlc"
 cask "whatsapp"
+mas "CleanMyMac X", id: 1339170533
+mas "LastPass", id: 926036361
+mas "Twitter", id: 1482454543
+mas "Xcode", id: 497799835
