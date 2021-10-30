@@ -1,0 +1,16 @@
+[user]
+	email = diego@diegocosta.com.br
+	name = Diego Costa
+[filter "lfs"]
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+[help]
+	autocorrect = 1
+[core]
+	excludesfile = /Users/diego/.gitignore_global
+[pull]
+	rebase = false
+[init]
+	defaultBranch = main
