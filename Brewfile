@@ -1,11 +1,11 @@
 tap "homebrew/bundle"
 tap "homebrew/cask"
-tap "homebrew/cask-drivers"
 tap "homebrew/cask-fonts"
-tap "homebrew/cask-versions"
 tap "homebrew/core"
-
-
+brew "libyaml"
+brew "nvm"
+brew "rbenv"
+brew "yarn"
 cask "android-studio"
 cask "appcleaner"
 cask "authy"
