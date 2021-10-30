@@ -1,0 +1,24 @@
+
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Shades of Purple",
+    "editor.minimap.enabled": false,
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Fira Code",
+    "telemetry.telemetryLevel": "off",
+    "window.zoomLevel": 1,
+    "git.autofetch": true,
+    "editor.fontWeight": "600",
+    "files.exclude": {
+        "node_modules": true
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "clojureVSCode.formatOnSave": true,
+    "clojure.leinPath": "/usr/local/bin/lein",
+    "clojure.toolsJar": "~/.lein/self-installs/leiningen-standalone.jar",
+    "editor.tabSize": 2,
+    "extensions.ignoreRecommendations": true,
+    "security.workspace.trust.untrustedFiles": "open"
+}
