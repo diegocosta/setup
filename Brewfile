@@ -2,6 +2,7 @@ tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
 tap "homebrew/core"
+brew "gh"
 brew "libyaml"
 brew "mas"
 brew "nvm"
@@ -14,6 +15,7 @@ cask "caffeine"
 cask "docker"
 cask "figma"
 cask "font-fira-code"
+cask "font-jetbrains-mono"
 cask "grammarly"
 cask "iterm2"
 cask "macs-fan-control"
@@ -30,6 +32,7 @@ cask "visual-studio-code"
 cask "vlc"
 cask "whatsapp"
 mas "CleanMyMac X", id: 1339170533
+mas "GoodNotes", id: 1444383602
 mas "LastPass", id: 926036361
 mas "Twitter", id: 1482454543
 mas "Xcode", id: 497799835
