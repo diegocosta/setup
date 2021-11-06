@@ -1,3 +1,3 @@
 # setup
 
-my personal setup for the macOS environment.
+My collection of dotfiles that I use to power workflow.
